@@ -32,5 +32,4 @@ public class SampleTest extends TestBase {
 		answerQuestion(SEND_ANS_I_PATH);
 		assertEquals(sentAnswer, correctAnswer);
 	}
-
 }
