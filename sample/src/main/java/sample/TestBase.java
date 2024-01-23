@@ -19,7 +19,6 @@ public class TestBase {
 
 	final String FESHIKEN_PATH = "https://www.fe-siken.com/";
 	final String FIRST_QUESTION_XPATH = "//*[@id=\"mainCol\"]/div[2]/table/tbody/tr[3]/td[1]/a";
-	final String SEND_ANS_CORRECT_PATH = "//*[@id=\"t\"]";
 	final String SEND_ANS_A_PATH = "//*[@id=\"mainCol\"]/div[2]/div[2]/ul/li[1]/button";
 	final String SEND_ANS_I_PATH = "//*[@id=\"mainCol\"]/div[2]/div[2]/ul/li[2]/button";
 	final String SEND_ANS_U_PATH = "//*[@id=\"mainCol\"]/div[2]/div[2]/ul/li[3]/button";
