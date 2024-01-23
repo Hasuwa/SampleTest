@@ -29,7 +29,7 @@ public class SampleTest extends TestBase {
 	public void testA() {
 		selectYear();
 		startQuestion();
-		answerQuestion(SEND_ANS_I_PATH);
+		answerQuestion(SEND_ANS_A_PATH);
 		assertEquals(sentAnswer, correctAnswer);
 	}
 }
